@@ -44,8 +44,6 @@ $(function () {
                 return "两次密码不一致！"
             }
         }
-
-
     })
 
     // 4. 注册功能
@@ -96,9 +94,7 @@ $(function () {
                 // console.log(location.href);
                 // 跳转到后台主页
                 location.href = '/index.html'
-
             }
-
         })
     })
 })
